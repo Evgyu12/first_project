@@ -1,5 +1,8 @@
 <DOCTYPE!>
 <html>
+	<head>
+	<title>Page Title</title>
+	</head>
 <body>
 	<h1> my first page</h1>
 	<p> my first paragrapgh</p>
