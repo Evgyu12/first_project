@@ -1,5 +1,9 @@
 <DOCTYPE!>
 <html>
+	<head>
+		<title>page title</title>
+		<link rel ="stylsheet" href="/css/styles.css">
+	</head>
 <body>
 	<h1> my first page</h1>
 	<p> my first paragrapgh</p>
